@@ -69,71 +69,71 @@
     <string name="about_summary">ion, Developers &amp; Support Team</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Bảng màu</string>
+    <string name="press_color_to_apply">Nhấn vào màu bên dưới để áp dụng</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Áp dụng</string>
+    <string name="color_default">Mặc định</string>
 
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">Default</string>
+    <string name="custom_seekbar_default_value">Mặc định</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
     <string name="custom_seekbar_default_value_is_set">Default value is set</string>
 
     <!-- General strings -->
-    <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="attention">Attention</string>
+    <string name="ok">Xác nhận</string>
+    <string name="reset">Cài lại</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="save">Lưu lại</string>
+    <string name="attention">Chú ý</string>
 
     <!-- About -->
-    <string name="about_title">About</string>
-    <string name="developers_category_title">Developers</string>
+    <string name="about_title">Khác</string>
+    <string name="developers_category_title">Nhà phát triển</string>
     <string name="ion_developer_ankitgourav" translatable="false">• Founder \n• Core Developer \n• UI/UX Designer\n• Maintainer</string>
-    <string name="support_category_title">Support Team</string>
+    <string name="support_category_title">Nhóm hỗ trợ</string>
     <string name="ion_support_summary" translatable="false">• Support Group Moderator</string>
     <string name="ion_support_summary_a" translatable="false">• Designer \n• Support Group Moderator</string>
     <string name="ion_links">Links</string>
-    <string name="ion_announcements_title">Announcements</string>
-    <string name="ion_announcements_summary">Official announcements channel</string>
+    <string name="ion_announcements_title">Thông báo</string>
+    <string name="ion_announcements_summary">Kênh thông báo chính thức</string>
     <string name="ion_telegram_title">Telegram</string>
-    <string name="ion_telegram_summary">Support group for Official builds</string>
+    <string name="ion_telegram_summary">Nhóm hỗ trợ cho các bản dựng chính thức</string>
     <string name="ion_donate">Donate</string>
     <string name="ion_donate_summary">Show your support to #teamion</string>
     <string name="website_title">Website</string>
     <string name="website_title_summary">Download ion for your device</string>
     <string name="ion_source_title">Github</string>
     <string name="ion_source_summary">ion source code</string>
-    <string name="ion_support_summary_ru_translation" translatable="false">• Russian Translation</string>
+    <string name="ion_support_summary_ru_translation" translatable="false">• Bản dịch tiếng Nga</string>
 
     <!-- Dashboard conditions-->
-    <string name="dashboard_category">Dashboard options</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="dashboard_category">Tùy chọn bảng điều khiển</string>
+    <string name="dashboard_conditions_title">Điều kiện bảng điều khiển</string>
+    <string name="summary_dashboard_conditions_enabled">Điều kiện bảng điều khiển được kích hoạt</string>
+    <string name="summary_dashboard_conditions_disabled">Điều kiện bảng điều khiển bị vô hiệu hóa</string>
+    <string name="dashboard_suggestions_title">Đề xuất bảng điều khiển</string>
+    <string name="summary_dashboard_suggestions_enabled">Đề xuất bảng điều khiển được bật</string>
+    <string name="summary_dashboard_suggestions_disabled">Đề xuất bảng điều khiển được tắt</string>
 
     <!-- Volume rocker music control -->
-    <string name="volume_rocker_music_controls_title">Playback control</string>
-    <string name="volume_rocker_music_controls_summary">When the screen is off, long-pressing the volume keys will seek music tracks</string>
+    <string name="volume_rocker_music_controls_title">Trình phát nhạc</string>
+    <string name="volume_rocker_music_controls_summary">Khi màn hình tắt, nhấn và giữ phím âm lượng sẽ tìm các bản nhạc</string>
 
     <!-- Volume rocker wake -->
-    <string name="volume_rocker_wake_title">Volume rocker wake</string>
-    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
+    <string name="volume_rocker_wake_title">Phím âm lượng</string>
+    <string name="volume_rocker_wake_summary">Nhấn các phím âm lượng sẽ đánh thức thiết bị của bạn</string>
 
     <!-- Language options - Volume rocker cursor control -->
-    <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="cursor_section_header">Con trỏ</string>
+    <string name="volume_key_cursor_control_title">Điều khiển con trỏ phím âm lượng</string>
+    <string name="volume_key_cursor_control_off">Tắt</string>
+    <string name="volume_key_cursor_control_on">Tăng / giảm âm lượng di chuyển con trỏ sang trái/phải</string>
+    <string name="volume_key_cursor_control_on_reverse">Tăng / giảm âm lượng di chuyển con trỏ sang phải/trái</string>
 
     <!-- Wakeup options -->
     <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
