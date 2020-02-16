@@ -140,87 +140,87 @@
     <string name="wakeup_when_plugged_unplugged_summary">Sáng màn hình khi cắm hoặc rút sạc.</string>
 
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration options</string>
+    <string name="incall_vibration_category">Tùy chọn rung trong cuộc gọi</string>
     <string name="incall_vibrate_connect_title">Rung khi kết nối</string>
     <string name="incall_vibrate_connect_summary">Rung khi kết thúc cuộc gọi</string>
     <string name="incall_vibrate_call_wait_title">Rung khi chờ cuộc gọi</string>
     <string name="incall_vibrate_call_wait_summary">Bật để rung trong khi cuộc gọi đang chờ</string>
     <string name="incall_vibrate_disconnect_title">Rung khi kết thúc</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibrate_disconnect_summary">Bật để rung sau khi ngắt kết nối cuộc gọi</string>
 
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
-    <string name="lockscreen_battery_info_summary">Display negociated charger max current and voltage and battery temperature on lockscreen while charging</string>
+    <string name="lockscreen_battery_info_title">Thông tin sạc màn hình khóa</string>
+    <string name="lockscreen_battery_info_summary">Hiển thị dòng sạc tối đa của bộ sạc và điện áp và nhiệt độ pin trên màn hình khóa trong khi sạc</string>
 
     <!-- Fingerprint authentication vibration -->
-    <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
-    <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
-    <string name="fprint_error_vib_title">Fingerprint error vibration</string>
-    <string name="fprint_error_vib_summary">Vibrate on error fingerprint authentication</string>
+    <string name="fprint_sucess_vib_title">Rung khi mở khóa bằng vân tay</string>
+    <string name="fprint_sucess_vib_summary">Rung khi xác thực vân tay thành công</string>
+    <string name="fprint_error_vib_title">Rung khi sai vân tay</string>
+    <string name="fprint_error_vib_summary">Rung khi xác thực vân tay lỗi</string>
 
     <!-- Statusbar net monitor -->
-    <string name="network_traffic_state_title">Location</string>
-    <string name="network_traffic_autohide_threshold_title">Auto-hide threshold</string>
-    <string name="network_traffic_hidearrow">Activity arrows</string>
-    <string name="network_traffic_hidearrow_summary">Show the network traffic indicator arrows</string>
-    <string name="network_traffic_type">Activity type</string>
-    <string name="network_traffic_layout">Activity layout</string>
-    <string name="network_traffic_layout_h">Horizontal</string>
-    <string name="network_traffic_layout_v">Verticle</string>
-    <string name="show_network_traffic_combined">Combined (Upload + Download)</string>
-    <string name="show_network_traffic_dynamic">Dynamic</string>
-    <string name="show_network_traffic_up">Upload</string>
-    <string name="show_network_traffic_down">Download</string>
-    <string name="show_network_traffic_all">Both</string>
-    <string name="traffic_disabled">Disabled</string>
-    <string name="traffic_statusbar">Statusbar</string>
-    <string name="traffic_expanded_statusbar">Expanded Statusbar</string>
-    <string name="network_traffic_refresh_interval_title">Refresh interval</string>
+    <string name="network_traffic_state_title">Vị trí</string>
+    <string name="network_traffic_autohide_threshold_title">Tự động ẩn</string>
+    <string name="network_traffic_hidearrow">Mũi tên hoạt động</string>
+    <string name="network_traffic_hidearrow_summary">Hiển thị mũi tên chỉ báo lưu lượng mạng</string>
+    <string name="network_traffic_type">Kiểu hoạt động</string>
+    <string name="network_traffic_layout">Bố cục hoạt động</string>
+    <string name="network_traffic_layout_h">Ngang</string>
+    <string name="network_traffic_layout_v">Dọc</string>
+    <string name="show_network_traffic_combined">Kết hợp (Tải lên + Tải xuống)</string>
+    <string name="show_network_traffic_dynamic">Năng động</string>
+    <string name="show_network_traffic_up">Tải lên</string>
+    <string name="show_network_traffic_down">Tải xuống</string>
+    <string name="show_network_traffic_all">Cả hai</string>
+    <string name="traffic_disabled">Tắt</string>
+    <string name="traffic_statusbar">Thanh trạng thái</string>
+    <string name="traffic_expanded_statusbar">Thanh trạng thái mở rộng</string>
+    <string name="network_traffic_refresh_interval_title">Làm mới khoảng thời gian</string>
 
     <!-- Power Menu -->
-    <string name="powermenu_title">Power Menu</string>
-    <string name="powermenu_reboot_title">Reboot</string>
-    <string name="powermenu_reboot_summary">Enables reboot option in power menu</string>
-    <string name="powermenu_advanced_reboot_title">Advanced reboot</string>
-    <string name="powermenu_advanced_reboot_summary">Enables the advanced reboot menu for rebooting options</string>
-    <string name="powermenu_screenshot_title">Screenshot</string>
-    <string name="powermenu_screenshot_summary">Enables screenshot option in power menu</string>
-    <string name="powermenu_screenrecord_title">Screenrecord</string>
-    <string name="powermenu_screenrecord_summary">Enables screenrecord option in power menu</string>
-    <string name="powermenu_torch">Flashlight</string>
-    <string name="powermenu_torch_summary">Enables flashlight option in power menu</string>
-    <string name="powermenu_airplane_title">Airplane mode</string>
-    <string name="powermenu_airplane_summary">Enables Airplane mode option in power menu</string>
-    <string name="powermenu_emergency_title">Emergency</string>
-    <string name="powermenu_emergency_summary">Enables Emergency Affordance option</string>
-    <string name="powermenu_category_visibility">Lockscreen options</string>
-    <string name="powermenu_lockscreen_title">Visibility on the lockscreen</string>
-    <string name="powermenu_lockscreen_summary">Enable the ability to show and use the power menu dialog while on the lockscreen</string>
-    <string name="powermenu_ls_reboot_summary">Show the reboot option on the lockscreen</string>
-    <string name="powermenu_ls_advanced_reboot_summary">Show the advanced reboot option on the lockscreen</string>
-    <string name="powermenu_ls_screenshot_summary">Show the screenshot option on the lockscreen</string>
-    <string name="powermenu_ls_screenrecord_summary">Show the screenrecord option on the lockscreen</string>
-    <string name="powermenu_ls_airplane_summary">Show the airplane mode option on the lockscreen</string>
+    <string name="powermenu_title">Menu nguồn</string>
+    <string name="powermenu_reboot_title">Khởi động lại</string>
+    <string name="powermenu_reboot_summary">Cho phép tùy chọn khởi động lại trong menu nguồn</string>
+    <string name="powermenu_advanced_reboot_title">Khởi động lại nâng cao</string>
+    <string name="powermenu_advanced_reboot_summary">Bật menu khởi động lại nâng cao cho các tùy chọn khởi động lại</string>
+    <string name="powermenu_screenshot_title">Ảnh chụp màn hình</string>
+    <string name="powermenu_screenshot_summary">Bật tùy chọn ảnh chụp màn hình trong menu nguồn</string>
+    <string name="powermenu_screenrecord_title">Quay phim màn hình</string>
+    <string name="powermenu_screenrecord_summary">Bật tùy chọn Ghi hình trong menu nguồn</string>
+    <string name="powermenu_torch">Đèn pin</string>
+    <string name="powermenu_torch_summary">Bật tùy chọn đèn pin trong menu nguồn</string>
+    <string name="powermenu_airplane_title">Chế độ máy bay</string>
+    <string name="powermenu_airplane_summary">Bật tùy chọn Chế độ máy bay trong menu nguồn</string>
+    <string name="powermenu_emergency_title">Trường hợp khẩn cấp</string>
+    <string name="powermenu_emergency_summary">Cho phép tùy chọn gọi khẩn cấp</string>
+    <string name="powermenu_category_visibility">Tùy chọn khóa màn hình</string>
+    <string name="powermenu_lockscreen_title">Hiển thị trên màn hình khóa</string>
+    <string name="powermenu_lockscreen_summary">Cho phép khả năng hiển thị và sử dụng hộp thoại menu nguồn trong khi trên màn hình khóa</string>
+    <string name="powermenu_ls_reboot_summary">Hiển thị tùy chọn khởi động lại trên màn hình khóa</string>
+    <string name="powermenu_ls_advanced_reboot_summary">Hiển thị tùy chọn khởi động lại nâng cao trên màn hình khóa</string>
+    <string name="powermenu_ls_screenshot_summary">Hiển thị tùy chọn ảnh chụp màn hình trên màn hình khóa</string>
+    <string name="powermenu_ls_screenrecord_summary">Hiển thị tùy chọn màn hình trên màn hình khóa</string>
+    <string name="powermenu_ls_airplane_summary">Hiển thị tùy chọn chế độ máy bay trên màn hình khóa</string>
 
     <!-- Statusbar Tuner -->
-    <string name="statusbar_items_title">Statusbar items</string>
+    <string name="statusbar_items_title">Các mục thanh trạng thái</string>
 
     <!-- Lockscreen icons -->
-    <string name="lockscreen_tuner_title">Lockscreen shortcuts</string>
+    <string name="lockscreen_tuner_title">Phím tắt màn hình</string>
 
     <!-- Navbar options -->
-    <string name="nav_bar_layout">Layout</string>
-    <string name="nav_bar_layout_normal">Normal</string>
-    <string name="nav_bar_layout_compact">Compact</string>
-    <string name="nav_bar_layout_left">Left-leaning</string>
-    <string name="nav_bar_layout_right">Right-leaning</string>
-    <string name="navbar_invert_layout_title">Invert layout</string>
-    <string name="recents_style_info_title">Only valid if button navigation mode is used.</string>
+    <string name="nav_bar_layout">Bố trí</string>
+    <string name="nav_bar_layout_normal">Bình thường</string>
+    <string name="nav_bar_layout_compact">Gọn nhẹ</string>
+    <string name="nav_bar_layout_left">Nghiêng trái</string>
+    <string name="nav_bar_layout_right">Nghiêng phải</string>
+    <string name="navbar_invert_layout_title">Đảo ngược bố cục</string>
+    <string name="recents_style_info_title">Chỉ hợp lệ nếu chế độ điều hướng nút được sử dụng.</string>
 
     <!-- Heads up -->
     <string name="heads_up_notifications">Heads up</string>
-    <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
-    <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
+    <string name="summary_heads_up_enabled">Hiển thị thông báo nổi</string>
+    <string name="summary_heads_up_disabled">Tắt hiển thị thông báo nổi</string>
     <string name="add_heads_up_package">Add app</string>
     <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
     <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
