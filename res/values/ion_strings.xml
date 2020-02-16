@@ -224,64 +224,64 @@
     <string name="add_heads_up_package">Add app</string>
     <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
     <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="heads_up_stoplist_title">Danh sách dừng</string>
+    <string name="heads_up_blacklist_title">Danh sách đen</string>
+    <string name="profile_choose_app">Chọn ứng dụng</string>
+    <string name="dialog_delete_title">Xóa</string>
+    <string name="dialog_delete_message">Xóa mục đã chọn?</string>
 
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Rung khi chạm</string>
+    <string name="quick_settings_vibrate_summary">Rung khi chạm vào phím tắt</string>
 
     <!-- Keyboard and IME -->
-    <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string>
-    <string name="disable_fullscreen_keyboard_summary">Landscape keyboard will never take up entire screen</string>
-    <string name="keyboard_rotation_toggle_title">Auto keyboard rotation</string>
-    <string name="keyboard_rotation_toggle_summary">Force auto-rotate when keyboard is shown</string>
-    <string name="keyboard_rotation_timeout_title">Auto-rotate timeout</string>
+    <string name="disable_fullscreen_keyboard_title">Vô hiệu hóa bàn phím toàn màn hình</string>
+    <string name="disable_fullscreen_keyboard_summary">Bàn phím ngang sẽ không bao giờ chiếm toàn bộ màn hình</string>
+    <string name="keyboard_rotation_toggle_title">Xoay bàn phím tự động</string>
+    <string name="keyboard_rotation_toggle_summary">Buộc tự động xoay khi bàn phím được hiển thị</string>
+    <string name="keyboard_rotation_timeout_title">Hết thời gian tự động xoay</string>
     <string name="keyboard_rotation_timeout_summary">Disables auto-rotate sensor in <xliff:g id="rotate_timeout">%1$s</xliff:g> after keyboard is hidden</string>
-    <string name="keyboard_rotation_dialog">This feature forces auto-rotate to turn on temporarily while the keyboard is shown.  It has no effect when auto-rotate is already enabled.</string>
-    <string name="show_enter_key_title">Show enter key</string>
-    <string name="show_enter_key_summary">Force keyboard to show enter instead of emoticon key</string>
-    <string name="ime_switcher_notify">Show selector</string>
-    <string name="ime_switcher_notify_summary">Display input method selector</string>
+    <string name="keyboard_rotation_dialog">Tính năng này buộc tự động xoay để bật tạm thời trong khi bàn phím được hiển thị. Nó không có tác dụng khi tự động xoay đã được bật.</string>
+    <string name="show_enter_key_title">Hiển thị phím enter</string>
+    <string name="show_enter_key_summary">Buộc bàn phím hiển thị enter thay vì phím biểu tượng cảm xúc</string>
+    <string name="ime_switcher_notify">Hiển thị bộ chọn</string>
+    <string name="ime_switcher_notify_summary">Hiển thị bộ chọn phương thức nhập</string>
 
     <!-- Show LTE/4G switch -->
-    <string name="show_lte_fourgee_title">4G/LTE network icon</string>
-    <string name="show_lte_fourgee_summary">Display the 4G or LTE network icon when available in the statusbar</string>
+    <string name="show_lte_fourgee_title">Biểu tượng mạng 4G / LTE</string>
+    <string name="show_lte_fourgee_summary">Hiển thị biểu tượng mạng 4G hoặc LTE trên thanh trạng thái</string>
 
     <!-- QuickSettings Panel Transparency -->
-    <string name="qs_panel_alpha_title">Quick Settings opacity</string>
-    <string name="qs_panel_alpha_summary">Configure opacity of background</string>
+    <string name="qs_panel_alpha_title">Cài đặt độ mờ phím tắt</string>
+    <string name="qs_panel_alpha_summary">Cấu hình độ mờ của nền</string>
 
     <!-- Lockscreen Double Tap To Sleep -->
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep on lock screen</string>
-    <string name="double_tap_sleep_lockscreen_summary">Double tap anywhere on the lock screen to put the device to sleep</string>
+    <string name="double_tap_sleep_lockscreen_title">Nhấn đúp tắt màn hình ỏ màn hình khóa</string>
+    <string name="double_tap_sleep_lockscreen_summary">Nhấn đúp vào bất cứ nơi nào trên màn hình khóa để tắt màn hình</string>
 
     <!-- StatusBar Double tap to sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double tap on the status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Nhấn đúp</string>
+    <string name="double_tap_to_sleep_summary">Nhấn đúp vào thanh trạng thái để khóa máy</string>
 
     <!-- CPU info overlay -->
-    <string name="show_cpu_title">Show CPU info</string>
-    <string name="show_cpu_summary">Screen overlay showing current CPU info</string>
+    <string name="show_cpu_title">Hiển thị thông tin CPU</string>
+    <string name="show_cpu_summary">Lớp phủ màn hình hiển thị thông tin CPU hiện tại</string>
 
     <!-- Fingerprint unlock keystore -->
-    <string name="fp_unlock_keystore_title">Force Biometric unlock</string>
-    <string name="fp_unlock_keystore_summary">Unlock device with biometric after reboot without PIN/Password/Pattern\nNote: at your own risk!</string>
+    <string name="fp_unlock_keystore_title">Buộc mở khóa khuôn mặt</string>
+    <string name="fp_unlock_keystore_summary">Mở khóa thiết bị bằng khuôn mặt sau khi khởi động lại mà không cần mã PIN / Mật khẩu / Mẫu \ Lưu ý: nguy hiểm!</string>
 
     <!-- QS footer warnings -->
     <string name="qs_footer_warnings_title">QS footer warnings</string>
     <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or vpn</string>
 
     <!-- QS Edit -->
-    <string name="qs_edit_title">Edit icon</string>
-    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <string name="qs_edit_title">Chỉnh sửa biểu tượng</string>
+    <string name="qs_edit_summary">Hiển thị biểu tượng chỉnh sửa ô trong phần cài đặt nhanh</string>
 
     <!-- QS footer icons -->
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
+    <string name="qs_footer_settings_title">Biểu tượng cài đặt</string>
+    <string name="qs_footer_settings_summary">Biểu tượng Cài đặt hiển thị trong cài đặt nhanh</string>
 
     <!-- Media art -->
     <string name="media_art_title">Media cover art</string>
